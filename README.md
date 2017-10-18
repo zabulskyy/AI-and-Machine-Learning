@@ -1,1 +1,1 @@
-# AI-and-Machine-Learning
+# Fundamentals of AI and Machine Learning
